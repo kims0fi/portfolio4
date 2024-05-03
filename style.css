@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    background-color: #B0B3FF; ;
+}
+h1 {
+ color:#21246E ;
+    text-align: center;
+}
+header a {
+   color: black;
+    border: 3px double #21246E ;
+    padding: 4px;
+    border-radius: 10px;
+    text-decoration: none; 
+}
+header {
+    padding: 10px;
+    background-color:#6C70D3;;
+}
+img {
+    border: #21246E 4px dashed;
+    text-align: center;
+    margin: 15px;
+    padding: 5px;
+    border-radius: 20px;
+}
